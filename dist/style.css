@@ -1,0 +1,24 @@
+#main {
+  font-size: 30px;
+  height: 100vh;
+}
+
+#display {
+  height: 10vh;
+  width: 30vw;
+  background-color: grey;
+  display: block;
+  margin: 10vw 0vh 0vw 10vh;
+}
+
+#button {
+  padding: 2px;
+  border: solid;
+  margin: 10vw 10vh 10vw 10vh;
+  width: 30vw;
+}
+
+button {
+  width: 8.5vw;
+  margin: 2px 5px 4px 5px;
+}
